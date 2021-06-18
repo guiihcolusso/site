@@ -56,17 +56,6 @@
 
 **Tenho interesse:**
 
-<p align="left">
-  <!-- Next.JS Icon -->
-  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/nextJS.png?raw=true">&nbsp;
-  <!-- Node Icon -->
-  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/nodejs.png?raw=true">&nbsp;
-  <!-- TS Icon -->
-  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/ts.png?raw=true">&nbsp;
-  <!-- Django Icon -->
-  <img height='50' src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/django.png?raw=true">&nbsp;
-  
-</p>
 
 <table align='left'>
   <row>
